@@ -25,6 +25,7 @@ Images of the summary statistics for temperatures in Oahu, Hawaii for June and D
 Based on the results, with a similar average temperature for the months of June and December, as well as a similar maximum temperature and range, it would make sense to have the surf and ice cream shop open year-round. Additional queries could be performed to retrieve and describe the precipitation data to understand the rainfall for the area in these months to ensure green land and sunny days to surf. Some code of how this precipitation data could be retrieved and summarized are below:
 
 **June Precipitation**
+
 *Write a query that filters the Measurement table to retrieve the precipitation for the month of June.*
 
 j_prcp = []
